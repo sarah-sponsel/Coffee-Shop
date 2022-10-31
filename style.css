@@ -131,7 +131,6 @@ footer a { color: darkgray; }
 .menu-item.additional-items .item-inner ul {
     display: inline-block;
     width: 50%;
-    float: left;
 }
 
 #coffeehouse{
