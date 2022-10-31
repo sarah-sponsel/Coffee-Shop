@@ -165,17 +165,16 @@ and (max-device-width: 750px) {
     }
     .title-item h2 {font-size: 1em}
     .menu-item.additional-items h2 {
-        padding-top 10px
+        padding-top: 10px;
         padding-bottom: 10px;
         width: 100%
-        float: none;
     }
     footer h2{
         font-size: 1.4em;
         padding-top: 3px;
         padding-bottom: 3px
     }
-    footer li {font-size 0.85em;}
+    footer li {font-size: 0.85em;}
     footer{padding-bottom: 5px}
 }
 /* End Home Page Content */
